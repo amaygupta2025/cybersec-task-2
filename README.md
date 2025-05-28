@@ -8,7 +8,7 @@ This task involves analyzing a suspicious email pretending to be from GitHub. Th
 
 ## Files
 - phishing-email.JPG: A screenshot of the suspicious GitHub-themed email.
-- phishing_report.pdf: A detailed report analyzing phishing indicators in the email, along with a simulated email header.
+- phishing_report.JPG: A detailed report analyzing phishing indicators in the email, along with a simulated email header.
 - README.md: A summary of the task and how it was completed.
 
 ## Tools Used (All are Free)
